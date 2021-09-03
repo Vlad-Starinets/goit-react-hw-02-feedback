@@ -1,0 +1,9 @@
+.container {
+  padding-bottom: 20px;
+}
+
+.title {
+  margin: 10px 0px;
+  /* font-size: 30px; */
+  color: rgb(50, 18, 196);
+}

@@ -1,0 +1,13 @@
+.block {
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  background-color: #381adf;
+  padding: 20px 50px;
+  margin: 30px 25px;
+  border-radius: 50px;
+  color: white;
+  font-size: 16px;
+}
